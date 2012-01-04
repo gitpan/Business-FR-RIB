@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Business-FR-RIB
-version:            0.03
+version:            0.04
 abstract:           Verify French RIB (Relevé d'Identité Bancaire)
 author:
     - Luc DIDRY (ldidry@cpan.org)
